@@ -1,7 +1,7 @@
 My plans for this stuff
 ===
 
-ZeroBin was (afaik) written by @sebsauvage. I hope to  add
+ZeroBin was (afaik) written by [sebsauvage](https://github.com/sebsauvage). I hope to add
 [this magical JS stuff](http://softwaremaniacs.org/playground/showdown-highlight/)
 to pick up Markdown editing and syntax highlighting. Because of the
 [quite ingenious design](http://sebsauvage.net/wiki/doku.php?id=php:zerobin)
